@@ -1,2 +1,0 @@
-# Shipway
-Selenium scripts
